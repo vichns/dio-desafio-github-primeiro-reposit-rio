@@ -1,0 +1,22 @@
+git stat*COMANDOS*
+
+|git status|
+
+|git add .|  ou  |git add -A|                                               (Adicionar todos os arquivos)
+
+|git commit -m "Inclusão de anotações ao GitHub"|                           (Inclusão de anotações ao GitHub)
+
+|git config --global user.name "vichns"|                                    (vichns) 
+
+|git config --global user.email "vicemailpc@gmail.com"|
+
+|git clone " "                                                              ( colar o endereço code https)
+
+
+
+
+
+
+
+Link para download do git https://gitforwindows.org/
+O Git Bash é um terminal extendido para otimizar o uso do Git
